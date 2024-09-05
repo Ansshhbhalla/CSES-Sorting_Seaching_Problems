@@ -39,4 +39,4 @@ Pure raw approach easy to understand commented solution
 1. [Movie Festival II](/Sorting%20and%20Searching/Movie%20Festival%20II.cpp)
 1. [Maximum Subarray Sum II](/Sorting%20and%20Searching/Maximum%20Subarray%20Sum%20II.cpp)
 
-Respo  underwork more solution will be uploaded soon 
+Respo  underwork more solutions will be uploaded soon 
